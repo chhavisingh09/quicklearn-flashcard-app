@@ -1,1 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>QuickLearn</title>
+    <link rel="stylesheet" href="style.css">
+</head>
 
+<body>
+
+    <!-- App Title / Logo -->
+    <h1>QUICKLEARN</h1>
+
+    <!-- Add Flashcard Section -->
+    <div class="add-card">
+        <h2>Add New Flashcard</h2>
+
+        <label>Question</label><br>
+        <textarea id="question"></textarea><br><br>
+
+        <label>Answer</label><br>
+        <textarea id="answer"></textarea><br><br>
+
+        <label>Question Type</label><br>
+        <select id="type">
+            <option>One Word</option>
+            <option>Short Answer</option>
+            <option>Long Answer</option>
+            <option>True / False</option>
+        </select><br><br>
+
+        <button id="addBtn">Add Card</button>
+        <button id="clearBtn">Clear All</button>
+    </div>
+
+    <!-- Flashcards Display Area -->
+    <div id="cardBox"></div>
+
+    <!-- Footer -->
+    <footer>
+        <p>QuickLearn © 2026 | First Semester Micro Project</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

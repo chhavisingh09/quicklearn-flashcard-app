@@ -1,13 +1,14 @@
 # QuickLearn 📚
 
-QuickLearn is my first beginner project — a simple flashcard learning web app.
+QuickLearn is a beginner-level flashcard learning web application.
 
-I built this project to practice and understand the basics of:
-- HTML
-- CSS
-- JavaScript
+This project is created as a **First Semester Micro Project** to understand the basics of web development.
 
-No frameworks or libraries are used.
+---
+
+## 🎯 Objective
+
+The objective of QuickLearn is to help students learn using flashcards by allowing them to create, view, and manage questions using basic web technologies.
 
 ---
 
@@ -15,14 +16,14 @@ No frameworks or libraries are used.
 
 - Create flashcards for learning
 - Multiple question types:
-  - One word
-  - Short answer
-  - Long answer
+  - One Word
+  - Short Answer
+  - Long Answer
   - True / False
 - Click on a card to show or hide the answer
 - Add new flashcards
 - Clear all flashcards
-- Simple and clean purple-themed UI
+- Clean purple-themed user interface
 
 ---
 
@@ -30,42 +31,36 @@ No frameworks or libraries are used.
 
 - HTML
 - CSS
-- JavaScript (basic)
+- JavaScript (Basic)
 
 ---
 
 ## 📁 Project Structure
 
-index.html → structure of the app
-style.css → styling and theme
-script.js → logic and functionality
+index.html → Structure of the app  
+style.css → Styling and theme  
+script.js → Functionality  
 
 ---
 
-## 🎯 What I Learned
+## 🎓 Learning Outcome
 
-- How HTML, CSS, and JavaScript work together
-- How to handle user input
-- How to create elements using JavaScript
-- How to build my first complete web project
+- Understanding HTML structure
+- Styling using CSS
+- DOM manipulation using JavaScript
+- Handling user input and events
 
 ---
 
-## 📌 Future Improvements
+## 🔮 Future Scope
 
 - Save flashcards using localStorage
 - Add study mode
-- Improve UI and responsiveness
+- Improve UI responsiveness
 
 ---
 
-## 📷 Preview
+## 👩‍💻 Author
 
-(Open `index.html` in your browser to use the app)
-
----
-
-## 🙌 Author
-
-Built by **Chhavi Singh**  
-First-year BCA student
+**Chhavi Singh**  
+BCA – First Year  

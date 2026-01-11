@@ -1,1 +1,76 @@
+body {
+    font-family: Arial;
+    background: #efe6ff;
+    text-align: center;
+    margin: 0;
+}
 
+/* App Title */
+h1 {
+    background: linear-gradient(135deg, #7b2ff7, #b983ff);
+    color: black;
+    padding: 20px;
+    margin: 0;
+    letter-spacing: 2px;
+}
+
+/* Add Card Box */
+.add-card {
+    background: #f6f0ff;
+    padding: 20px;
+    margin: 20px auto;
+    width: 90%;
+    max-width: 500px;
+    border-radius: 12px;
+}
+
+/* Inputs */
+textarea {
+    width: 95%;
+    height: 60px;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+
+select {
+    padding: 5px;
+    border-radius: 6px;
+}
+
+/* Buttons */
+button {
+    background: #7b2ff7;
+    color: black;
+    border: none;
+    padding: 8px 15px;
+    margin: 5px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #b983ff;
+}
+
+/* Flashcards */
+#cardBox {
+    margin-top: 20px;
+}
+
+.card {
+    background: #f6f0ff;
+    padding: 15px;
+    margin: 10px auto;
+    width: 90%;
+    max-width: 500px;
+    border-radius: 12px;
+    cursor: pointer;
+    border-left: 5px solid #7b2ff7;
+}
+
+/* Footer */
+footer {
+    margin: 30px 0;
+    color: black;
+}
